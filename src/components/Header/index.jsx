@@ -1,4 +1,4 @@
-const header = () =>{
+const Header = () =>{
     return(
         <header className='flex flex-row justify-around items-center py-8'>
             <div>
@@ -20,4 +20,4 @@ const header = () =>{
     )
 }
 
-export default header
+export default Header
