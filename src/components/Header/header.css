@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-top: 2rem;
+    align-items: center;
+    padding: 3rem 4rem;
+}
+
+.logo{
+    width: 150px;
+}
+
+.divIcons{
+    display: flex;
+    gap: 30px;
+}
+
+.cabecalho_nav{
+    display: flex;
+    gap: 5rem;
+}
+
+.cabecalho_links{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
