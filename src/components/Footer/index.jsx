@@ -1,7 +1,7 @@
 const footer = () => {
     return (
         <div className="py-14">
-            <div className="flex justify-start gap-64 border-solid border-b-2 border-borCor3 pb-14 mx-24">
+            <div className="flex justify-between border-solid border-b-2 border-borCor3 pb-14 mx-24">
                 <div>
                     <h3 className="font-poppins font-bold text-2xl pb-12">Funiro.</h3>
                     <p className="font-poppins font-normal text-base text-txCor3">400 University Drive Suite 200 Coral Gables,</p>
